@@ -20,12 +20,12 @@
   if(!firebase.apps.length){
     
     var config = {
-      apiKey: "AIzaSyAHKzVuDz5Fzb_siJvcEC0tYakcxc9dyhY",
-      authDomain: "things-to-do-744e7.firebaseapp.com",
-      databaseURL: "https://things-to-do-744e7.firebaseio.com",
-      projectId: "things-to-do-744e7",
-      storageBucket: "things-to-do-744e7.appspot.com",
-      messagingSenderId: "807935759914"
+      apiKey: "AIzaSyC-U0veMrTRx7m4ACfowxLg0G3xSV6eTDo",
+      authDomain: "my-first-project-c1a72.firebaseapp.com",
+      databaseURL: "https://my-first-project-c1a72.firebaseio.com",
+      projectId: "my-first-project-c1a72",
+      storageBucket: "my-first-project-c1a72.appspot.com",
+      messagingSenderId: "358839980657"
     };
     firebase.initializeApp(config);
   }
