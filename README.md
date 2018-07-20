@@ -1,4 +1,5 @@
-Instruction
+#Fun Finder
+https://ekhin.github.io/Fun-Finder/
 
 Application Concept:
     Our application helps people to plan for their vacation by searching activities they can do based on location (city, state), such as amusement park, art gallery, museum, park, and zoo.  
